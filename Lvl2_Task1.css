@@ -1,0 +1,62 @@
+body
+{
+    background-image: linear-gradient(to right, rgb(102, 83, 246) , rgb(130, 214, 235));
+}
+h1
+{
+    margin: auto;
+    width: 35%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    size: 300px;
+}
+img
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#intro
+{
+    margin-top: 0.5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+    font-size: 17px;
+    text-align: center;
+}
+#main
+{
+margin: auto;
+border: 5px solid rgb(89, 83, 208);
+box-shadow: 30px 30px 100px 15px rgb(8, 247, 247);
+background-color: rgb(99, 167, 240);
+width:70%;
+}
+#about
+{
+text-align: center;
+font-size: 25px;
+font-weight:bold;
+font-family: 'Trebuchet MS';
+}
+#a1,#a2,#a3,#a4,#a5,#a6,#a7
+{
+margin-left: 5%;
+padding-right: 50px ;
+font-family:'Segoe UI';
+}
+p
+{
+font-size: 16px;
+}
+#end
+{
+
+    text-align: center;
+    font-size: larger;
+    font-family: 'Courier New';
+    font-weight: bold;
+}
